@@ -1,1 +1,0 @@
-console.lor("git hub")
